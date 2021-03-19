@@ -4,7 +4,7 @@
 I am a web developer from Indonesia and love everything related to programming. I love it when my work is rewarding and can change the world.
 
 #### Talking about Personal Stuffs :
-- 🔭 I’m currently working on [simple-portfolio](https://github.com/shafygunawan/simple-portfolio)
+- 🔭 I’m currently working on [simple-portfolio](https://github.com/shafygunawan/row-finder)
 - 🌱 I’m currently learning javascript programming language
 - 💬 Ask me about anything, I'm happy to help
 - 📫 How to reach me: shafygunawan@gmail.com
