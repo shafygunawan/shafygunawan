@@ -1,11 +1,11 @@
 ### Hi there, I'm Shafy! 👋
 [![telegram](https://img.shields.io/badge/@shafygunawan-30302f?style=flat&logo=telegram)](https://t.me/shafygunawan)
+[![youtube](https://img.shields.io/badge/Coding's%20Time-FF0000?style=flat&logo=youtube)](https://www.youtube.com/channel/UC6dnKqrImGWqMb9ty1n0Ziw)
 
 I am a web developer from Indonesia and love everything related to programming. I love it when my work is rewarding and can change the world.
 
 #### Talking about Personal Stuffs :
-- 🔭 I’m currently working on [row-finder](https://github.com/shafygunawan/row-finder)
-- 🌱 I’m currently learning javascript programming language
+- 🌱 I’m currently learning Javascript programming language
 - 💬 Ask me about anything, I'm happy to help
 - 📫 How to reach me: shafygunawan@gmail.com
 
