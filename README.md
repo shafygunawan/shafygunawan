@@ -1,25 +1,27 @@
-### Hi there, I'm Shafy! 👋
-[![telegram](https://img.shields.io/badge/@shafygunawan-30302f?style=flat&logo=telegram)](https://t.me/shafygunawan)
+## Hi there, I'm Shafy! 👋
 
-I am a web developer from Indonesia and love everything related to programming. I love it when my work is rewarding and can change the world.
+🌐 Web Developer | 💻 Open-Source Enthusiast | 🚀 Tech Enthusiast
 
-#### Talking about Personal Stuffs :
-- 🌱 I’m currently learning Javascript programming language
-- 💬 Ask me about anything, I'm happy to help
-- 📫 How to reach me: shafygunawan@gmail.com
+I'm a passionate web developer experienced in building robust and scalable applications. I have expertise in various technologies and frameworks including front-end development, back-end development, databases, version control, and responsive design.
 
-#### Stats :
-![Shafy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafygunawan&show_icons=true&theme=dark)
+### Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafygunawan&layout=compact&theme=dark)
+- 💻 Front-end Development: HTML, CSS, JavaScript, Sass, React, Vue.js
+- 🖥️ Back-end Development: PHP, Node.js, Laravel, CodeIgniter
+- 📊 Databases: SQL
+- 🔧 Version Control: Git
+- 🌐 Responsive Design
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
+### Current Projects
+
+*No projects yet.*
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafygunawan&show_icons=true&hide_title=true&theme=dark)
 
 <!--
-**shafygunawan/shafygunawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Talking about Personal Stuffs :
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
